@@ -9,10 +9,11 @@ body {
 h1 {
     font-family: Futura, Arial, Helvetica, sans-serif;
     font-weight: Bold;
+    color: #FFF;
     font-style: italic;
     font-size: 3rem;
     line-height: 3rem;
-    text-shadow: #999 2px;
+    text-shadow: #000 4px 4px;
 }
 
 p,
